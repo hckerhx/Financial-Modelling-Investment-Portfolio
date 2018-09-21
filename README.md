@@ -1,2 +1,1 @@
-# MIE377
-LAB Documents 
+# Financial Modelling 
